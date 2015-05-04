@@ -8,7 +8,7 @@ A build of nginx that better resembles a build for front end web services.
 	
 ## Module versions in latest build
 
-- nginx - 1.7.12
+- nginx - 1.9.0
 - pagespeed - 1.9.32.3
 - nginx-dav-ext-module - 0.0.3
 - echo-nginx-modeul - 0.57
